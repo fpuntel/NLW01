@@ -8,7 +8,7 @@ Aplicação *Ecoleta*
 Responsável por cadastrar os pontos de coletas.
 
 ## Tela inicial
-<img src="screenshotsTelas/web.png" width="400">
+<center><img src="screenshotsTelas/web.png" width="600"></center>
 
 ## Tela cadastro
 <img src="screenshotsTelas/cadastro.png" width="400">
