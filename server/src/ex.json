@@ -1,0 +1,14 @@
+{
+	"name": "Mercado Peruzzo",
+	"email": "contato@mercadoimperatriz.com.br",
+	"whatsapp": "4555656251",
+	"latitude":	-46.555141,
+	"longitude": -35.51255,
+	"city": "Santa Maria",
+	"uf":	"RS",
+	"items":[
+		1,
+		2,
+		6
+	]
+}
